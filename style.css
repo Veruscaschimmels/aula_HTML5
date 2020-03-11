@@ -1,0 +1,23 @@
+
+body{
+background:#e8c5c5;
+margin-left: 30px;
+margin-right: 200px;
+}
+header{
+    margin-top: 70px;
+}
+
+h1{
+color:red;
+font-family: fantansy;
+}
+h2{
+    font-family: fantansy;
+}
+p{
+    font-size: 18px;
+}
+img{
+    margin-bottom: 20px;
+}
